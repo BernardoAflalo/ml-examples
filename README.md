@@ -16,4 +16,4 @@
 ## Pacotes python
 
 - pyCaret [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BernardoAflalo/ml-examples/blob/main/pycaret/Pycaret.ipynb)
-- Pandas Profiling [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BernardoAflalo/ml-examples/blob/main/pandas-profiling/PandasProfiling.ipynb)
+- Pandas Profiling [![Open in Cokab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BernardoAflalo/ml-examples/blob/main/pandas-profiling/PandasProfiling.ipynb)
