@@ -15,7 +15,7 @@
 
 ## Pacotes python
 
-- sklearn [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BernardoAflalo/ml-examples/blob/main/sklean-examples/SKLearn Examples.ipynb)
+- sklearn [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BernardoAflalo/ml-examples/blob/main/sklean-examples/SKLearnExamples.ipynb)
 - pyCaret [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BernardoAflalo/ml-examples/blob/main/pycaret/Pycaret.ipynb)
 - Pandas Profiling [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BernardoAflalo/ml-examples/blob/main/pandas-profiling/PandasProfiling.ipynb)
 - ExplainerDashboard [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BernardoAflalo/ml-examples/blob/main/explainerdashboard/explainerdashboard.ipynb)
