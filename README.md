@@ -6,7 +6,7 @@
 
 ## Redes Neurais (CNN)
 - MNIST (CNN): [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BernardoAflalo/ml-examples/blob/main/mnist-cnn/example_mnist_cnn.ipynb)
-- Fashion MNIST (CNN): click on fashion MNIST folder/ notebook
+- Fashion MNIST (CNN): [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BernardoAflalo/ml-examples/blob/main/fashion-mnist/fashion-mnist.ipynb)
 
 ## Redes Neurais (Extras)
 - Augmentation: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BernardoAflalo/ml-examples/blob/main/augmentation/ExampleAugmentation.ipynb)
